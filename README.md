@@ -7,7 +7,6 @@
 - ☕️ [Foojay.io](https://foojay.io/today/author/helenjoscott/) also contains many blogs from myself and others
 - 📕I co-authored [Getting Started with IntelliJ IDEA](https://leanpub.com/gettingtoknowIntelliJIDEA) with [Trisha Gee](https://twitter.com/trisha_gee)
 - 📗I am co-authoring [Software Faster](https://leanpub.com/softwarefaster/) with [Daniel Terhorst-North](https://twitter.com/tastapod)
-- 📘I am co-authoring a Technical Writing book as well, link coming soon!
 - 👯‍♀️ My pronouns are she/her
 
 <div align="center" id="badges">
