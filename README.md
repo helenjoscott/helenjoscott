@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-- 🥑 I work for [JetBrains](https://www.jetbrains.com) as a Developer Advocate
-- 🎤 I am a conference speaker 
-- 🌎 [My Website](https://www.helenjoscott.com) contains my blogs, bio and featured
 - 📕I co-authored [Getting Started with IntelliJ IDEA](https://leanpub.com/gettingtoknowIntelliJIDEA) with [Trisha Gee](https://twitter.com/trisha_gee)
 - 📗I am co-authoring [Software Faster](https://leanpub.com/softwarefaster/) with [Daniel Terhorst-North](https://dannorth.net/about/)
 - 👯‍♀️ My pronouns are she/her
